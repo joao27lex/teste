@@ -19,7 +19,7 @@
         },
 
         "analytica_sp": {
-            "project_name" : "Application for the selective process of 'UFRJ Analytica'",
+            "project_name" : "Application for the trial of 'UFRJ Analytica'",
             "link" : "https://github.com/joao27lex/processo-seletivo-analytica",
             "tools" : "Python, FastAPI, Jupyter Notebooks, Matplotlib, Pandas, Numpy"
         },
