@@ -1,0 +1,141 @@
+{
+    "data": {
+        "name": "João Pedro Leyssieux Campanella",
+        "email": "jplcampanella@gmail.com",
+        "age": "22y/o",
+        "civil_state": "Single"
+    },
+
+    "professional_goal": "I look forward to becoming a Data Scientist after graduation",
+
+    "education": "Control and Automation Engineering student",
+
+    "portfolio": {
+        
+        "advanced_js": {
+            "project_name" : "Advanced JavaScript Project / API - IT Step Computer Academy",
+            "link" : "https://github.com/joao27lex/IT_STEP_Projeto_JS_Avancado",
+            "tools" : "JavaScript, HTML, CSS"
+        },
+
+        "analytica_sp": {
+            "project_name" : "Application for the selective process of 'UFRJ Analytica'",
+            "link" : "https://github.com/joao27lex/processo-seletivo-analytica",
+            "tools" : "Python, FastAPI, Jupyter Notebooks, Matplotlib, Pandas, Numpy"
+        },
+
+        "mail_to_pdf": {
+            "project_name": "Create PDF Mails Website",
+            "link": "https://github.com/joao27lex/LP_CartECA",
+            "tools": "Python, Flask, HTML, CSS"
+        },
+
+        "advanced_HTML": {
+            "project_name" : "Advanced HTML Project - IT Step Computer Academy",
+            "link" : "https://github.com/joao27lex/ITSTEP_Projeto_HTML_Avancado",
+            "tools" : "HTLM, CSS, Bootstrap"
+        },
+
+        "grade_calculator": {
+            "project_name" : "Final Grade and Status Calculator for 'Programming Language' Class",
+            "link" : "https://github.com/joao27lex/CalculadoraNotas",
+            "tools" : "Python, Flask, HTML, CSS"
+        },
+
+        "link_tree": {
+            "project_name" : "João Pedro's Link Tree",
+            "link" : "https://github.com/joao27lex/site-meus-links",
+            "tools" : "HTML, CSS, React"
+        }
+    },
+
+    "qualifications": {
+        "Python": {
+            "icon_link": "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
+            "description": "Experience in developing applications with Python."
+        },
+        "Numpy": {
+            "icon_link": "https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg",
+            "description": "Used for data manipulation."
+        },
+        "Matplotlib": {
+            "icon_link": "https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg",
+            "description": "Creating data visualizations."
+        },
+        "SciKit-Learn": {
+            "icon_link": "https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg",
+            "description": "Short experience in Machine Learning."
+        },
+        "Flask": {
+            "icon_link": "https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg",
+            "description": "Development of web applications with Flask."
+        },
+        "HTML": {
+            "icon_link": "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg",
+            "description": "Building web pages."
+        },
+        "CSS": {
+            "icon_link": "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg",
+            "description": "Styling web pages."
+        },
+        "JavaScript": {
+            "icon_link": "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg",
+            "description": "Developing interactive scripts."
+        },
+        "React": {
+            "icon_link": "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg",
+            "description": "Building user interfaces."
+        },
+        "React Router": {
+            "icon_link": "https://raw.githubusercontent.com/devicons/devicon/master/icons/reactrouter/reactrouter-original.svg",
+            "description": "Managing routes in React applications."
+        }      
+    },
+
+
+    "languages" : {
+        "Portuguese": {
+            "icon_link" : "https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/br.svg",
+            "description" : "Native"
+        },
+        "English": {
+            "icon_link" : "https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/us.svg",
+            "description" : "Advanced"
+        },
+
+        "French": {
+            "icon_link" : "https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/fr.svg",
+            "description" : "Basic"
+        },
+        
+        "Spanish": {
+            "icon_link" : "https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/es.svg",
+            "description" : "Basic"
+        }
+    },
+
+    "extracurricular_activities": {
+        "Lions Clube Sernambetiba": "Honorable mention received for providing voluntary tutoring to classmates in pursuit of improved collective performance.",
+        "Praia para Todos" : "Participation in the project 'Beach for All - Rio de Janeiro', which helps people with physical disabilities to enjoy swimming."
+    },
+
+    "courses": {
+        "IT Step Computer Academy" : "Fullstack Developing course (in progress)",
+        "The Complete Python Bootcamp": "Use Python for real-world tasks and developing applications",
+        "Brasas English Course": "Highly interactive classes, emphasized reading and conversational practice.",
+        "Learning Program in Management, Services, and Customer Support" : "Course on Work Ethics and Development for Young Apprentices",
+        "The Complete Course of Microsoft Excel": "Understanding of tools, graphs, formatting and formulas, enabling the resolution of any issues with spreadsheets."
+    },
+
+    "professional":{
+        "Lundbeck" : "Worked as a Young Apprentice in the Supply & Logistics and Operations departments."
+    },
+
+
+    "contact":{
+        "Email" : "mailto:jplcampanella@gmail.com",
+        "Linkedin" : "https://www.linkedin.com/in/jo%C3%A3o-pedro-leyssieux-campanella/",
+        "GitHub" : "https://github.com/joao27lex"
+            
+    }
+}
